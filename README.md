@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1><img src="pikachu_wave.gif" width="30"/> Nice to meet you.</h1>
 
 
-I'm Zhiwen Zhang, Fullstack developer currently living in <img src="canada.png" width="13"/> <b>Toronto, Canada</b>. </p>
+I'm Zhiwen(Kevin) Zhang, Fullstack developer currently living in <img src="canada.png" width="13"/> <b>Toronto, Canada</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
