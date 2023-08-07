@@ -42,4 +42,4 @@ I'm Zhiwen(Kevin) Zhang, Fullstack developer currently living in <img src="canad
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinzzw95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kevinzzw95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
